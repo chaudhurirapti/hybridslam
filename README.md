@@ -63,5 +63,7 @@ selection of a complete SLAM configuration from a single source. Second, an expa
 specific, and budget-aware hardware recommendations derived from the sensor performance analysis in Section 3. Together, these artifacts are intended to enable evidence-based SLAM system
 design without requiring exhaustive re-reading of primary literature, and to serve as stable reference points for future comparative studies.
 
+#After comprehensive review, HybridSLAM is in the process of developement. Some codes are attached here, that are done. Work is still going on.
+
 
  

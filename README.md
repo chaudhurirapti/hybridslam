@@ -51,6 +51,8 @@ Some important tables are mentioned below that will give a brief idea and clear 
 <img width="638" height="613" alt="6" src="https://github.com/user-attachments/assets/9e272c47-81de-437b-9a0f-22f6694d1a1e" />
 <img width="638" height="808" alt="5" src="https://github.com/user-attachments/assets/2473d3dd-a79b-4680-be15-4fd63e4b0034" />
 <img width="624" height="735" alt="1" src="https://github.com/user-attachments/assets/7b28d336-88c9-4394-b3c7-2c90fd310393" />
+<img width="1534" height="946" alt="graphs" src="https://github.com/user-attachments/assets/9cf810cb-4a54-4774-9dbe-4c7fee3f0368" />
+
 
 Discussions:
 
